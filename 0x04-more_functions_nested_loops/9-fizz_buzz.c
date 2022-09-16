@@ -2,10 +2,10 @@
 
 /**
 *main - program that prints either number
-*or fizz or buzz or fizzBuzz
+*or fizz or buzz or FizzBuzz
 *
 *
-*Return: returns 0
+*Return: return 0
 */
 
 int main(void)
