@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -5,7 +6,7 @@
 *or fizz or buzz or FizzBuzz
 *
 *
-*Return: return 0
+*Return: Always 0
 */
 
 int main(void)
