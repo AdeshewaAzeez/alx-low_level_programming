@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * _strncat - concatenate two strings but add imputted number of bytes
  * @dest: string to be appended upon
